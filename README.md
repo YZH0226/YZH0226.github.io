@@ -39,7 +39,7 @@ npx serve .
 └── assets/
     ├── css/style.css       # 全部样式与响应式规则
     ├── js/main.js          # 交互与动效逻辑
-    ├── resume.pdf          # 简历文件（下载按钮指向这里）
+    ├── 杨正昊个人简历.pdf          # 简历文件（下载按钮指向这里）
     ├── favicon.svg
     ├── icon-192.png
     ├── icon-512.png
